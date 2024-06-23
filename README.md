@@ -9,9 +9,9 @@
 
 ## 🤷시작 가이드
 ### Requirements
-For builidng and running the application you need : 
-    *fastapi
-    *jinja2
+For builidng and running the application you need 
+    * fastapi
+    * jinja2
 
 ### Installation
 """
