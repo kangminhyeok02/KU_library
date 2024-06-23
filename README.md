@@ -15,10 +15,9 @@ For builidng and running the application you need :
 
 ### Installation
 
-"""
-$ git clone https://github.com/kangminhyeok02/KU_library/
 
-"""
+    $ git clone https://github.com/kangminhyeok02/KU_library.git
+    $ cd KU_library
 
 
 
