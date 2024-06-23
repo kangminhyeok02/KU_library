@@ -7,11 +7,17 @@
 ## 🕛개발기간 
 2024.06.21 ~ 2024.06.23
 
-## 시작 가이드
+## 🤷시작 가이드
 ### Requirements
 For builidng and running the application you need : 
+    -fastapi
+    -jinja2
 
 ### Installation
+"""
+
+
+"""
 
 
 
